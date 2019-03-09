@@ -58,4 +58,4 @@ if __name__ == "__main__":
     ui.resize(500,10)
     ui.show()
     print( ui.objectName() )
-    print("finish!!!!!!!!!!!!!!!!!!!!")
+    print("finish!!!")
